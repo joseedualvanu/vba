@@ -1,0 +1,1 @@
+Se utiliza filtro avanzado para obtener los datos buscados de una planilla de excel
